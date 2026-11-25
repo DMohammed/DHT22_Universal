@@ -1,0 +1,12 @@
+{
+  "name": "DHT22_Universal",
+  "version": "1.0.0",
+  "description": "Cross-platform DHT22 library supporting original and fast-responding clone sensors on ESP32, ESP8266, and AVR.",
+  "keywords": ["dht22", "am2302", "clone", "temperature", "humidity", "esp32", "arduino"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_USERNAME/DHT22_Universal.git"
+  },
+  "frameworks": ["arduino"],
+  "platforms": "*"
+}
