@@ -25,7 +25,6 @@ Connect the DHT22 to your microcontroller:
 Add the repository to your `platformio.ini`:
 ```ini
 lib_deps =
-    https://github.com/YOUR_USERNAME/DHT22_Universal.git
 ```
 
 ### Arduino IDE
